@@ -5,7 +5,7 @@
 	(uuid "396724f0-1018-470f-8cbe-43f9bf3e51d0")
 	(paper "A4")
 	(lib_symbols)
-	(text "rev-1"
+	(text "rev-2"
 		(exclude_from_sim no)
 		(at 140.716 80.772 0)
 		(effects
@@ -14,6 +14,44 @@
 			)
 		)
 		(uuid "4cc1ac8a-b3c0-48e3-9bff-262b35e943f5")
+	)
+	(sheet
+		(at 68.58 106.68)
+		(size 58.42 49.53)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "04d7a16a-fbb8-489f-87be-6dc4113bb1b5")
+		(property "Sheetname" "sheet1"
+			(at 68.58 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet1-page.kicad_sch"
+			(at 68.58 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cp-test-project"
+				(path "/396724f0-1018-470f-8cbe-43f9bf3e51d0"
+					(page "2")
+				)
+			)
+		)
 	)
 	(sheet_instances
 		(path "/"
