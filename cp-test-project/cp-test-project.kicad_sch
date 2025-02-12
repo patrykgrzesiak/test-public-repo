@@ -5,7 +5,7 @@
 	(uuid "396724f0-1018-470f-8cbe-43f9bf3e51d0")
 	(paper "A4")
 	(lib_symbols)
-	(text "MAIN"
+	(text "rev-1"
 		(exclude_from_sim no)
 		(at 140.716 80.772 0)
 		(effects
