@@ -53,6 +53,44 @@
 			)
 		)
 	)
+	(sheet
+		(at 190.5 116.84)
+		(size 38.1 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ba5feaea-9c47-40e7-bf4e-8d0573e105a9")
+		(property "Sheetname" "tt"
+			(at 190.5 116.1284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "tt.kicad_sch"
+			(at 190.5 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cp-test-project"
+				(path "/396724f0-1018-470f-8cbe-43f9bf3e51d0"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
